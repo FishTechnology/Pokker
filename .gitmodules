@@ -7,3 +7,6 @@
 [submodule "src/PokkerUI"]
 	path = src/PokkerUI
 	url = https://github.com/FishTechnology/PokkerUI.git
+[submodule "src/PokkerDb"]
+	path = src/PokkerDb
+	url = https://github.com/FishTechnology/PokkerDb.git
