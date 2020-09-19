@@ -1,3 +1,6 @@
 [submodule "src/PokkerService"]
 	path = src/PokkerService
 	url = https://github.com/FishTechnology/PokkerService.git
+[submodule "src/PokkerBFF"]
+	path = src/PokkerBFF
+	url = https://github.com/FishTechnology/PokkerBFF.git
